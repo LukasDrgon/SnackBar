@@ -15,6 +15,13 @@ or maybe you wish to use NPM...
 ```bash
 npm install node-snackbar
 ```
+
+you can also use a CDN and just include this in your code...
+
+```html
+<script src="https://cdn.jsdelivr.net/npm/node-snackbar@0.1"></script>
+```
+
 and if that doesn't float you, you can always download the CSS and JS files...
 ```html
 <script type="text/javascript" src="dist/snackbar.min.js"></script>
